@@ -1,0 +1,16 @@
+{
+  "GetTeamURL": "https://api-origin.onefootball.com/score-one-proxy/api/teams/en/%d.json",
+  "TargetTeams": [
+    "Germany",
+    "England",
+    "France",
+    "Spain",
+    "Manchester United",
+    "Arsenal",
+    "Chelsea",
+    "Barcelona",
+    "Real Madrid",
+    "Bayern Munich"
+  ],
+  "TimeoutInMilliSecond": 1000
+}
